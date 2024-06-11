@@ -26,7 +26,7 @@ const About = () => {
                             <img src="/github.png" className=" w-32" alt="GitHub"/>
                             </a>
                         </Link>
-                        <Link to="https://www.linkedin.com/in/manuele-vancin-80793b2b1/" className="rounded-md flex items-center px-4 mt-2 text-white hover:bg-stone-400">
+                        <Link to="https://www.linkedin.com/in/manuele-vancin-developer/" className="rounded-md flex items-center px-4 mt-2 text-white hover:bg-stone-400">
                             <img src="/linkedin.png" className=" w-24"></img>
                         </Link>
                     </div>
