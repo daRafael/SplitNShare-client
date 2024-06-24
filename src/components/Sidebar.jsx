@@ -76,7 +76,7 @@ const Sidebar = () => {
                             Friends
                         </div>
                     </Link>
-                    <button className="mx-14 my-2 text-xs py-2 px-3 rounded-full text-white bg-stone-400 hover:bg-stone-500"
+                    <button className="mx-12 my-2 text-xs py-2 px-4 rounded-full text-white bg-stone-400 hover:bg-stone-500"
                         onClick={toggleFriendOverlay}
                     >
                         Add
@@ -91,7 +91,7 @@ const Sidebar = () => {
                     
                     <Link to='/about'>
                         <div>
-                            <button className="mx-12 mb-10 text-xs py-2 px-4  rounded-full text-white bg-stone-400 hover:bg-stone-500">
+                            <button className="mx-12 mb-10 text-xs py-2 px-3  rounded-full text-white bg-stone-400 hover:bg-stone-500">
                                 About
                             </button>
                         </div>
