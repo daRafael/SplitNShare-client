@@ -57,7 +57,7 @@ const Recents = () => {
       {addExpenseOverlay && (
       <AddExpense toggleAddExpenseOverlay={toggleAddExpenseOverlay} />
     )}
-    <div className="pt-20 pb-4 h-full pr-2 flex flex-col flex-1">
+    <div className="pt-20 pb-4 h-screen pr-2 flex flex-col flex-1">
       <div className="flex rounded-md flex-col items-center h-screen pr-4 p-4 bg-lime-200">
         <div className="bg-white rounded-md flex flex-row items-center justify-between w-full">
           <span className="m-4 text-stone-400 text-xl font-bold">Recent activity</span>
