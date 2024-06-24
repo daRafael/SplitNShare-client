@@ -18,7 +18,7 @@ const Sidebar = () => {
   };
 
   return (
-    <div className="ml-0 flex h-screen pt-16 pr-2 bg-white">
+    <div className="ml-0 flex h-full pt-16 pr-2 bg-white">
         <div className="hidden md:flex flex-col w-64 bg-white">
             <div className="flex flex-col flex-1 overflow-y-auto">
                 <nav className="flex-1 px-2 py-4 bg-stone-300">
